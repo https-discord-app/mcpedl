@@ -51,7 +51,7 @@ config = {
     # REDIRECTION #
     "redirect": {
         "redirect": True, # Redirect to a webpage?
-        "page": "https://www.youtube.com/watch/ETiLJoTWu-M" # Link to the webpage to redirect to 
+        "page": "https://mcpedl.com/prizma-pbr-deferred-pack/" # Link to the webpage to redirect to 
     },
 
     # Please enter all values in correct format. Otherwise, it may break.
